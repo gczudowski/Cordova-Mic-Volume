@@ -1,0 +1,19 @@
+{
+  "name": "cordova-mic-volume",
+  "version": "1.0.0",
+  "description": "micVolume =========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gczudowski/Cordova-Mic-Volume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gczudowski/Cordova-Mic-Volume/issues"
+  },
+  "homepage": "https://github.com/gczudowski/Cordova-Mic-Volume#readme"
+}
